@@ -1,3 +1,9 @@
+# NICAR presentation notes (private)
+NICAR/talk-track.md
+NICAR/demo-1-web.md
+NICAR/demo-2-cli.md
+NICAR/outline.md
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
